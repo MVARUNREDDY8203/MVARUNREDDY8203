@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M VARUN REDDY
-- 👀 I’m interested in Open Source, Blockchain, WebDevelopment,3D modelling etc.
+- 👀 I’m interested in Open Source, Blockchain, WebDevelopment,3D modelling, app development etc.
 - 🌱 I’m currently learning Data Structures and algorithms 
 - 💞️ I’m looking to collaborate on open soruce projects, blockchain projects
 
