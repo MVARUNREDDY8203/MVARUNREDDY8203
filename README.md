@@ -39,10 +39,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MVARUNREDDY8203&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
----
-[![](https://visitcount.itsvg.in/api?id=MVARUNREDDY8203&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=MVARUNREDDY8203&icon=3&color=0)]()
