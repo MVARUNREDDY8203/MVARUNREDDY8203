@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](github-header-image.png)
 # <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
 # 💫 About Me:
 -🔭 I’m currently working on a ReactJS based AI image generator website that users can buy images/ subscribe for the serivce<br>
