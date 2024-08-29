@@ -1,8 +1,8 @@
 ![Header](github-header-image.png)
 # <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
 # 💫 About Me:
--🌱 I’m currently exploring ReactJS<br>
--💬 Ask me about Nextjs/ Fish Keeping/ Nutrition<br>
+-🌱 I’m currently exploring Backend Tech + fine-tuning LLMs<br>
+-💬 Ask me about My Projects/ Fish Keeping/ Nutrition<br>
 -⚡ Fun fact I was prepping for NEET and ended up pursuing engg. Ask me how.
 
 <img algihn="right" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
