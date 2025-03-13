@@ -1,7 +1,6 @@
-![Header](github-header-image.png)
 # <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
 # 💫 About Me:
--🌱 I’m currently exploring Backend Tech + fine-tuning LLMs<br>
+-🌱 A techie trying to break into tech<br>
 -💬 Ask me about My Projects/ Fish Keeping/ Nutrition<br>
 -⚡ Fun fact I was prepping for NEET and ended up pursuing engg. Ask me how.
 
